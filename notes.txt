@@ -1,0 +1,18 @@
+REST stands for Representational State Transfer.
+
+- RESTful applications use HTTP requests to post data (create and/or update), read data (e.g., make queries), and delete data.
+Thus, REST uses HTTP for all four CRUD (Create/Read/Update/Delete) operations.
+
+- GET is the most common HTTP operation, used for reading data on the web; GET a PAGE
+
+- POST is the request sent by a browser when you submit a form.
+  In Rails applications, POST requests are typically used for creating things (although HTTP also allows POST to perform updates).
+
+- PATCH and DELETE, are designed for updating and destroying things on the remote server.
+
+-
+
+
+
+Nice OhMyZSH themes:
+sonicradish.zsh-theme
